@@ -1,0 +1,12 @@
+D:\mp\CQRS_Pattern\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+D:\mp\CQRS_Pattern\DataLayer\bin\Debug\net5.0\DataLayer.dll
+D:\mp\CQRS_Pattern\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+D:\mp\CQRS_Pattern\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+D:\mp\CQRS_Pattern\DataLayer\obj\Debug\net5.0\DataLayer.csprojAssemblyReference.cache
+D:\mp\CQRS_Pattern\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\mp\CQRS_Pattern\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+D:\mp\CQRS_Pattern\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+D:\mp\CQRS_Pattern\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\mp\CQRS_Pattern\DataLayer\obj\Debug\net5.0\DataLayer.dll
+D:\mp\CQRS_Pattern\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+D:\mp\CQRS_Pattern\DataLayer\obj\Debug\net5.0\DataLayer.pdb
